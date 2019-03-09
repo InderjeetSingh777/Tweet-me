@@ -1,4 +1,5 @@
 # Tweet-me
 A twitter like app
-#Check out instrcution file for execution
+
+#Check out instruction file for execution
 
